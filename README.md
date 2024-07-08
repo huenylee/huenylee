@@ -3,6 +3,7 @@ Hello! I'm Hunhee Lee, a passionate mobile app engineer from South Korea. I spec
 
 ### Open Source Contributions
 - 🎖 Contributor of [rrousselGit/freezed](https://github.com/rrousselGit/freezed/pulls?q=is%3Apr+author%3Ahunhee98+is%3Aclosed+)
+- 🎖 Contributor of [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework/pulls?q=is%3Apr+author%3Ahunhee98+is%3Aclosed+)
 
 ### Side projects
   - [Chatty](https://github.com/chatty-lab/Chatty-iOS-App) - A 1:1 random chat app that matches users based on shared interests.

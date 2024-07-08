@@ -4,6 +4,10 @@ Hello! I'm Hunhee Lee, a passionate mobile app engineer from South Korea. I spec
 ### Open Source Contributions
 - 🎖 Contributor of [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
 
+### Side projects
+  - [Chatty](https://github.com/chatty-lab/Chatty-iOS-App) - A 1:1 random chat app that matches users based on shared interests.
+  - [GeulGrim](https://github.com/hunhee98/GeulGeurim) '글그림' - An app that lets users comfortably read TXT files on mobile devices, mimicking the experience of reading a book.
+
 ### Education
 - 🎓 Korea National Open University
   - Bachelor of Computer Science

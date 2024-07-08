@@ -2,7 +2,7 @@
 Hello! I'm Hunhee Lee, a passionate mobile app engineer from South Korea. I specialize in developing mobile applications with Swift and Flutter. I thrive on immersing myself in product development, enjoy collaborating with colleagues, and am dedicated to contributing to open-source communities.
 
 ### Open Source Contributions
-- 🎖 Contributor of [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
+- 🎖 Contributor of [rrousselGit/freezed](https://github.com/rrousselGit/freezed/pulls?q=is%3Apr+author%3Ahunhee98+is%3Aclosed+)
 
 ### Side projects
   - [Chatty](https://github.com/chatty-lab/Chatty-iOS-App) - A 1:1 random chat app that matches users based on shared interests.

@@ -3,6 +3,7 @@ Hello! I'm Hunhee Lee, a passionate mobile app engineer from South Korea. I spec
 
 ### Open Source Contributions
 - 🎖 Contributor of [swiftlang/swift](https://github.com/swiftlang/swift/pulls?q=author%3Ahunhee98)
+- 🎖 Contributor of [airbnb/swift](https://github.com/airbnb/swift/pulls?q=author%3Ahunhee98)
 - 🎖 Contributor of [rrousselGit/freezed](https://github.com/rrousselGit/freezed/pulls?q=is%3Apr+author%3Ahunhee98+is%3Aclosed+)
 
 ### Side projects

@@ -23,3 +23,7 @@ Hello! I'm Hunhee Lee, a passionate mobile app engineer from South Korea. I spec
   - Jul 2023 - Jan 2024
   - Acquired proficiency in Swift, UIKit, SwiftUI, REST APIs, and databases
   - Completed 5 porject assignments with code reviews
+- inflearn [Alen Swift Grammar Master Bootcamp](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8-%EC%95%B1%EB%A7%8C%EB%93%A4%EA%B8%B0#)
+  - Studied memory structure and operational principles
+  - Mastered Swift programming language syntax
+  - Learned fundamentals of UIKit
